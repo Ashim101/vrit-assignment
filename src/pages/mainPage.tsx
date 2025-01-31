@@ -48,10 +48,10 @@ const MainPage = () => {
       <div className="flex flex-col items-center justify-center lg:flex-row gap-8">
         {cardData.map((card) => (
           <Card
-            key={card.id} // Always add a unique key for list items
+            key={card.id}
             card={card as cardDataType}
             selectedItem={selectedItem}
-            selectHandler={selectHandler} // Fixed prop assignment syntax
+            selectHandler={selectHandler}
           />
         ))}
       </div>
