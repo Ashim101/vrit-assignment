@@ -1,0 +1,77 @@
+@import "tailwindcss";
+
+/* 
+.card{
+    transition: 1s ease all;
+}
+
+.card-circle{
+    padding: 30px;
+}
+
+.card:hover .card-circle{
+    top: auto;
+    animation: circleGone 4s ease-out ;
+    transform: scale(0);
+}
+
+@keyframes circleGone {
+  0% {
+      transform: scale(1);
+      bottom:0 ;
+      left: 0;
+  }
+  10% {
+      transform: scale(0.9);
+      bottom: -10%;
+      left: -10%;
+  }
+  20% {
+      transform: scale(0.8);
+      bottom: -20%;
+      left: -20%;
+  }
+  30% {
+      transform: scale(0.7);
+      bottom: -30%;
+      left: -30%;
+  }
+  40% {
+      transform: scale(0.6);
+      bottom: -40%;
+      left: -40%;
+  }
+  50% {
+      transform: scale(0.5);
+      bottom: -50%;
+      left: -50%;
+  }
+  60% {
+      transform: scale(0.4);
+      bottom: -60%;
+      left: -60%;
+  }
+  70% {
+      transform: scale(0.3);
+      bottom: -70%;
+      left: -70%;
+  }
+  80% {
+      transform: scale(0.2);
+      bottom: -80%;
+      left: -80%;
+  }
+  90% {
+      transform: scale(0.1);
+      bottom: -90%;
+      left: -90%;
+  }
+  100% {
+      transform: scale(0);
+      bottom: -100%;
+      left: -100%;
+  }
+} */
+
+
+
