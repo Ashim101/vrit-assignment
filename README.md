@@ -39,7 +39,7 @@ Better Animations: I plan to improve the animations by making them smoother and 
 Optimize Performance: I’ll also look into making the app run better on different devices by tweaking the animation logic.
 
 Time Spent
-It took me around 8-10 to complete this project. Since I’m new to Framer Motion, I had to spend a good amount of time learning how to use it and trying different things. It was challenging, but I learned a lot along the way.
+It took me around 8-10 hours to complete this project. Since I’m new to Framer Motion, I had to spend a good amount of time learning how to use it and trying different things. It was challenging, but I learned a lot along the way.
 
 
 Live demo link: https://vrit-assignment.onrender.com/
