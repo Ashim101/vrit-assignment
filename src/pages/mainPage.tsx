@@ -41,7 +41,7 @@ const MainPage = () => {
           Explore Our Classes and master trending skills!
         </p>
         <p className="font-bold text-[32px] leading-[38.4px] text-[#2b2b2b]">
-          Dive Into<span className="text-[#1da077]">What's Hot Right Now!</span>
+          Dive Into<span className="text-[#1da077]"> What's Hot Right Now!</span>
           {"🔥 "}
         </p>
       </div>
